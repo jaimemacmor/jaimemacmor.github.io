@@ -4,7 +4,9 @@
 <style>
         <meta charset="UTF-8">
         <title>Template</title>
-body {background-color: coral;}
+body {
+    background-color: coral;
+}
 
   </style>
 </head>
