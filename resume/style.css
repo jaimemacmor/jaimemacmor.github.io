@@ -10,5 +10,5 @@ body
 h1
 {
   text-align: center;
-  font-size: calc(18 + 2vm);
+  font-size: calc(18pt + 2vm);
 }
