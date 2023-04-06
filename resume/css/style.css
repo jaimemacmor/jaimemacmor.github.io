@@ -14,7 +14,8 @@ h1
 section
 {
     font-size: 20pt;
-    border: 3px white solid;    
+    border: 3px white solid;
+    margin
 }
 li
 {
@@ -23,4 +24,8 @@ li
 *
 {
     color:pink;
+}
+nav
+{
+    font-size:20pt;
 }
