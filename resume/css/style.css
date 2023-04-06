@@ -14,6 +14,8 @@ h1
 section
 {
     font-size: 20pt;
+    border: 3px;
+    margin:5px;
 }
 li
 {
