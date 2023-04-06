@@ -1,0 +1,21 @@
+h1
+{
+    background-color:pink;
+}
+body
+{
+    background-color: grey;
+}
+h1
+{
+  text-align: center;
+  font-size: calc(12pt + 4vw);
+}
+section
+{
+    border: 3px
+}
+li
+{
+    display:block;
+}
