@@ -1,6 +1,5 @@
 h1  {
     color:green;
-    font-size:50px;
 }
 body {
     background-color: khaki;
@@ -21,4 +20,7 @@ table   {
 }
 th      {
   background-color: green;
+}
+#gourmetchina  {
+    font-size: 30px;
 }
