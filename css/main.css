@@ -12,5 +12,8 @@ body {
 img {
     width:100; height:150,
 }
-
+section {
+  border: 3px white solid; 
+  margin: 5px;
+}
 </style>
