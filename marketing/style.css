@@ -14,3 +14,13 @@ section {
   border: 3px white solid; 
   margin: 5px;
 }
+td, th  {
+  border: 2px solid black;
+  padding: 15px;
+ }
+table   {
+  border-spacing:0px
+}
+th      {
+  background-color: green;
+}
