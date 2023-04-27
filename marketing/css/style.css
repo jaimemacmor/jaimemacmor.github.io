@@ -16,7 +16,7 @@ td, th  {
   padding: 15px;
  }
 table   {
-  border-spacing:0px
+  border-spacing:0px;
 }
 th      {
   background-color: green;
